@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>nossa007_openssl</sonar.projectKey>
+  <sonar.organization>nossa007</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
